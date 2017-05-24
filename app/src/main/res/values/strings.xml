@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_text">Constantinople is the largest city in Turkey?</string>
+    <string name="false_button">Ложь</string>
+    <string name="true_button">Правильно</string>
+    <string name="correct_toast">Так и есть</string>
+    <string name="incorrect_toast">Неа</string>
+    <string name="next_button">Го некст</string>
+    <string name="prev_button">Обратно</string>
+    <string name="question_ocean">Тихий океан - самый большой океан в мире?</string>
+    <string name="question_mideast">Суецкий канал соединяет красное море и Индийский океан?</string>
+    <string name="question_africa">Нил не в Египте?</string>
+    <string name="question_america">Амазонка - самая длинная река в Америке?</string>
+    <string name="question_asia">Байкал самое глубокое озеро в мире?</string>
+    <string name="warning_text">Ты уверен?</string>
+    <string name="show_answer_button">Показать ответ</string>
+    <string name="cheat_button">Считерить</string>
+    <string name="judgment_toast">Читерят только сыны шлюх</string>
+    <string name="title_activity_cheat">Читеришь, кек</string>
+</resources>
